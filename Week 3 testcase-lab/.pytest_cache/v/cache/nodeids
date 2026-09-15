@@ -1,0 +1,14 @@
+[
+  "test_collections.py::test_dict_equality",
+  "test_collections.py::test_list_contents",
+  "test_collections.py::test_list_equality",
+  "test_collections.py::test_set_operations",
+  "test_negative.py::test_age_as_string_rejected",
+  "test_negative.py::test_email_without_at_rejected",
+  "test_negative.py::test_email_without_domain_rejected",
+  "test_negative.py::test_negative_age_rejected",
+  "test_positive.py::test_boundary_ages_accepted",
+  "test_positive.py::test_valid_age_accepted",
+  "test_positive.py::test_valid_email_accepted",
+  "test_positive.py::test_valid_email_with_subdomain"
+]
